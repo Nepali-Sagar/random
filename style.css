@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #111;
+    color: #ffff;
+}
+
+.box{
+    border: 2px solid white;
+    width: 30vw;
+    height: 50vh;
+}
